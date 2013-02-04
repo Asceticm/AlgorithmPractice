@@ -8,4 +8,4 @@ QuickSort
 
 1.Be careful about the offset of the array
 
-2.the bound of Iteration can't be overlaped
+2.the boundary condition of Iteration can't overlap another
